@@ -7,8 +7,8 @@
 * ```sh start.sh```
 # Lấy Password Tại
 * ```http://traffic1s.com/Passwords```
-# Video Hướng Dẫn
-* t.me/+-8EFBSxln4Y2ZWY1
+# Box Telegram 
+* https://t.me/+k5f6Pq8bdR0xMDM9
 # Contact Me 
 * Telegram: @viduchung06
 * Zalo: 0359822840
