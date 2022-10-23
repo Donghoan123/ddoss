@@ -1,31 +1,31 @@
 # Cách Vào Tool
 * Google Cloud
-* ```git clone https://github.com/ViDucHung2006/DDoS```
+* ```git clone https://github.com/Donghoan123/ddoss```
 * ```cd DDoS```
-* ```unzip ddos.zip```
+* ```unzip dongkiki.zip```
 * ```Nhập Password```
 * ```sh start.sh```
 # Lấy Password Tại
-* ```http://traffic1s.com/Passwords```
+* ```null```
 # Box Telegram 
-* https://t.me/+k5f6Pq8bdR0xMDM9
+* null
 # Contact Me 
-* Telegram: @viduchung06
-* Zalo: 0359822840
-* Facebook: @Viduchung.06
+* Telegram: @donghoan123
+* Zalo: 0975013450
+* Facebook: @dangdongit.info
 
 # Donate 
-* Momo: 0359822840 <br>
-CTK: Vi Đức Hùng 
-* Tsr: 0359822840 <br>
-CTK: Vi Hùng
-* SHB: 0000190506 <br>
-CTK: VI DUC HUNG 
+* Momo: 0975013450 <br>
+CTK: Trần Đăng Đồng  
+* MB : 0975013450 <br>
+CTK: Trần Đăng Đồng  
+* MB : 2201112006 <br>
+CTK: Trần Đăng Đồng  
 
 # Developers
-* Vi Duc Hung
+* Trần Đăng Đồng  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ViDucHung2006/DDoShit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Donghoan123/ddosshit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 
