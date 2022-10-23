@@ -3,9 +3,8 @@
 * ```git clone https://github.com/Donghoan123/ddoss```
 * ```cd ddoss```
 * ```unzip dongkiki.zip```
-* ```Nhập Password```
+* ```cd dongkiki```
 * ```sh start.sh```
-# Lấy Password Tại
 * ```null```
 # Box Telegram 
 * null
