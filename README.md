@@ -1,7 +1,7 @@
 # Cách Vào Tool
 * Google Cloud
 * ```git clone https://github.com/Donghoan123/ddoss```
-* ```cd DDoS```
+* ```cd ddoss```
 * ```unzip dongkiki.zip```
 * ```Nhập Password```
 * ```sh start.sh```
